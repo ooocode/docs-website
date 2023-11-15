@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
